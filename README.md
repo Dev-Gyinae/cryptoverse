@@ -54,3 +54,6 @@ License
 SUGGESTIONS AND COMING FEATURES
 Exchange detaiils page to sort trades and trade information 
 New user interface
+
+
+test app on: https://devcrypto.netlify.app/
