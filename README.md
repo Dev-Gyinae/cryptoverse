@@ -1,4 +1,4 @@
-Cryptoverse
+Cryptoverse (https://devcrypto.netlify.app/)
 Cryptoverse is a React-based web application built using Ant Design (antd) and Redux. It provides information about cryptocurrencies, including market data, news articles, and details about individual cryptocurrencies.
 
 Sections
