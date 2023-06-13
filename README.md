@@ -24,31 +24,19 @@ To run the Cryptoverse app locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/cryptoverse.git
+git clone https://github.com/Dev-Gyinae/cryptoverse.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd cryptoverse
 Install the dependencies:
 
-bash
-Copy code
 npm install
 Start the development server:
 
-bash
-Copy code
 npm start
 Open your browser and visit http://localhost:3000 to access the Cryptoverse app.
 
-Credits
-The Cryptoverse app was created by [Your Name]. It utilizes data from various sources, including [source1], [source2], and [source3]. Special thanks to the creators and contributors of React, Ant Design, and Redux for their fantastic libraries.
 
-License
- free to use, copy and  modify @dev.Gyinae
 
 
 SUGGESTIONS AND COMING FEATURES
